@@ -1,7 +1,5 @@
 # WebRTC Video Conference
 
-**Live demo:** https://.herokuapp.com/
-
 WebRTC video conference sample application. Uses Mesh architecture (every participant sends and receives its media to all other participants).
 
 ## Getting Started
